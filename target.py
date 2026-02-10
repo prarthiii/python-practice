@@ -13,6 +13,5 @@ if not ans:
 ans = [ans[0], ans[-1]]
 
 
-    
 print(ans)
 # print(len(ans))
