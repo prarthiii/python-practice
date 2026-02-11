@@ -9,4 +9,4 @@ res = str(res)
 print(res)
         
 
-# technically this work, but conceptually above solution is wrong
+# technically this works, but conceptually above solution is wrong
