@@ -23,7 +23,7 @@ The purpose of this repository is to track my learning progress and improve prob
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python
 
