@@ -20,3 +20,6 @@ for i in range(k, len(s2)):
 
     if window == s1_count:
         print(True)
+
+print(False)
+
